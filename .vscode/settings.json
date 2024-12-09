@@ -45,6 +45,11 @@
         "typeinfo": "cpp",
         "config.cpp.in": "cpp",
         "cinttypes": "cpp",
-        "map": "cpp"
+        "map": "cpp",
+        "xlocmon": "cpp",
+        "xlocnum": "cpp",
+        "xtr1common": "cpp",
+        "xlocale": "cpp",
+        "xstring": "cpp"
     }
 }
